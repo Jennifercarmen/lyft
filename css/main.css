@@ -16,16 +16,16 @@ body {
   background-repeat: no-repeat;
   background-image: url('../assets/images/hero.gif');
 }
-a {
+header a {
   color: white;
   text-decoration: none;
   padding: 30px;
   margin: -22px;
 }
-a:hover{
+header a:hover{
   color: #ff00bf;
 }
-ul li {
+header ul li {
   display: inline;
   margin: 5px;
   list-style: none;
@@ -89,7 +89,7 @@ h1 {
   color: #352384;
   font-weight: bold;
 }
-h3{
+.portada h3{
   font-weight: lighter;
   color: #392786;
 }
@@ -97,7 +97,7 @@ h3{
   border: 0;
   outline: none;
 }
-hr{
+.box_lyft hr{
   border-color: #352384;
 }
 .btn-pink {
@@ -118,3 +118,92 @@ hr{
 .box_lyft a:hover{
   color: purple;
 }
+
+
+
+/*section three */
+section {
+  background: white;
+  width: 100%;
+  
+}
+.video3 {
+  color: black;
+}
+
+.video {
+  position: relative;
+  height: 100%;
+}
+
+
+
+
+/* Aplicando estilo en footer*/
+
+footer {
+  background:  #333447;
+  height: 30rem;
+  width: 100%;
+
+}
+
+ul {
+  list-style: none;
+  line-height: 2rem;
+}
+img {
+  text-decoration: none;
+}
+.box {
+  display: inline-block;
+}
+.conteiner1 {
+display: inline-block;
+margin: 5rem;
+margin-top: 2rem;
+}
+.conteiner2 {
+  display: inline-block;
+  margin-left: 8rem;
+  margin-top: 2rem;
+}
+a {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+a.first:first-child:hover {
+  color: white;
+}
+a:hover {
+  color: #76278F;
+}
+
+.pie {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 80%;
+  margin-left: 7rem;
+  text-align: center;
+}
+.icono {
+  display: inline-block;
+  margin-left: 3rem;
+  padding-left: -10rem;; 
+  border-radius: 100%;
+  height: 2.5rem;
+  width: 3rem;
+  padding-top: 0.5rem;
+  border: 2px solid white;
+  color: white;
+}
+span {
+  color: white;
+  text-align: center;
+}
+
+.conteiner1:hover {
+  color: red;
+}
+
