@@ -21,15 +21,24 @@ body {
 .watch p{
     margin-bottom: 0px;
   }
-  .paragraph{
+.paragraph{
     color: black;
     text-align: left;
     font-size: 0.8rem;
   line-height: 20px;
   }
+.box-textleft{
+  width: 20%;
+  position: absolute;
+  margin-left: 4rem;
+}
   .container{
     position: relative;
     height: 480px;
+  }
+  .box-videorigth {
+    position: absolute;
+    right: 0px;
   }
 /*Clases Especificas*/
 
@@ -182,20 +191,10 @@ br{
   width: 565px;
 }
 
-
-/*section three */
-
-div.box3 {
-  width: 20%;
-position: absolute;
-margin-left: 4rem;
-
- }
-.conteiner3 {
-  position: absolute;
-  right: 0px;
-}
+/*section three usa clases reutilizables */
+/*.container,.box-textleft,.watch,.paragraph,.box-videorigth*/
 /*section four */
+/*Section 4 utiliza clases reutilizables .container,.box-textleft,.watch,.paragraph,.box-videorigth*/
 div.box4 {
   position: absolute;
   width: 20%;
@@ -208,18 +207,8 @@ div.box4 {
   left: 0px;
   margin-left:4rem;
 }
-/*section five */
-div.box5 {
-  position: absolute;
-  width: 20%;
-  margin-left: 4rem;
- }
-
-.conteiner5 {
-  position: absolute;
-  right: 0px;
-}
-
+/*section five usa clases reutilizables*/
+/*.container,.box-textleft,.watch,.paragraph,.box-videorigth*/
 /* Aplicando estilo en footer*/
 
 footer {
