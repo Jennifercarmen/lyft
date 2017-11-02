@@ -16,7 +16,7 @@ Para poder realizar el  proyecto de manera idónea, contarás con lo siguiente.
      + Que  contiene el archivo `main.css`.
      + Donde realizarás tu estilo de trabajo.
 3. Una carpeta de `docs`.
-     + Conteniendo referencia para la elaboracion del footer.
+     + Conteniendo referencia para la elaboración del footer.
 4. Un archivo `index.html`.
 5. El readme con las indicaciones a desarrollar.
 
