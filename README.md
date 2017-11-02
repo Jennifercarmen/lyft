@@ -1,9 +1,4 @@
-# **Lyft**
-
-¿Quieres llegar rápido y  seguro a tu destino? ¿Te molesta el ruido del claxon? 
-Lyft es la página que buscabas. ¿Por qué? Te brinda un servicio único en transporte de manera rápida y segura,además cuenta con  un personal calificado  que te brindará una experiencia desde el momneto que eliges. 
-Viaja  con Lyft y notarás la diferencia.
-[Lyft](https://www.lyft.com/).
+﻿# **Lyft**
 
 ***
 ## Maquetando Lyft
@@ -15,7 +10,7 @@ Para poder realizar el  proyecto de manera idónea, contarás con lo siguiente.
 2. Una carpeta `css`
      + Que  contiene el archivo `main.css`.
      + Donde realizarás tu estilo de trabajo.
-3. Una carpeta de `docs`.
+3. Una carpeta de `docs` que esta contenida en la carpeta assets
      + Conteniendo referencia para la elaboración del footer.
 4. Un archivo `index.html`.
 5. El readme con las indicaciones a desarrollar.
@@ -39,4 +34,6 @@ Utilizaremos los siguiente videos de Youtube.
 * Puedes ver el [sitio original](https://www.lyft.com/), sin embargo, su diseño   ya ha cambiado en ciertas partes, así que tu fuente de verdad es la imagen que
   muestra el objetivo de este reto.
 
-
+## Participantes
+* Carmen Sosa Jennifer
+* Galindo Machaca Laura
