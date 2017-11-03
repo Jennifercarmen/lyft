@@ -2,18 +2,17 @@
 
 ***
 ## Maquetando Lyft
-En este proyecto se realizará un  maquetado de la web  Lyft, que es un aplicativo  que brinda servicio de taxi y no cualquier taxi, ya que es personalizado.
-Para poder realizar el  proyecto de manera idónea, contarás con lo siguiente.
+En este proyecto se realizará un  maquetado de la web  Lyft
+## **Estructura de Archivos**
 1. Una carpeta `assets`    
-     + Que contiene la carpeta `images`.
-     + En ella encontrarás todas las  imagenes para realizar tu proyecto.
+     + images(imagenes a usar en nuestra plantilla)
+	 + Docs
+	 + icons (iconos que usaremos)
 2. Una carpeta `css`
      + Que  contiene el archivo `main.css`.
      + Donde realizarás tu estilo de trabajo.
-3. Una carpeta de `docs` que esta contenida en la carpeta assets
-     + Conteniendo referencia para la elaboración del footer.
-4. Un archivo `index.html`.
-5. El readme con las indicaciones a desarrollar.
+3. Un archivo `index.html`.
+4. El readme con las indicaciones a desarrollar.
 
 ## **Objetivo**
 
@@ -28,12 +27,22 @@ Utilizaremos los siguiente videos de Youtube.
     * https://www.youtube.com/watch?v=fLSmUWOYpKw
     * https://www.youtube.com/watch?v=V7j8Aqxmbs8
     * https://www.youtube.com/watch?v=xj2VWLV0xCU
-  - Para agregar los videos, averigua sobre la etiqueta `iframe`.
+  - Para añadir videos hemos hecho uso de la etiqueta `iframe` para el cual nos dirigimos al video a insertar, 
+  clic derecho,clic en codigo de inserción y pegamos en el elemento src de la etiqueta iframe.
+  -Hemos hecho uso de clases reutilizables y especificas
+  -Nuestra plantilla consta de un header como portada de inicio, cinco secciones y un footer.
+  -En el header hicimos uso de la etiqueta nav para crear un menu de navegación y figure para insertar una imagen a la izquierda
+  -Las secciones estan contenidas con texto y video.
+  -La etiqueta footer indica el pie de pagina , un listado de enlaces de nuestro webSite como redes sociales 
+	para los cuales hicimos uso de iconos extraidos de icomoon
+  
 ***
 ## Pagina oficial
-* Puedes ver el [sitio original](https://www.lyft.com/), sin embargo, su diseño   ya ha cambiado en ciertas partes, así que tu fuente de verdad es la imagen que
-  muestra el objetivo de este reto.
+* Puedes ver el [sitio original](https://www.lyft.com/).
+## Nuestro Website
+Puede ingresar a ver nuestro producto Final en el siguiente enlace:
+https://jennifercarmen.github.io/lyft/
 
-## Participantes
+## Colaboradores
 * Carmen Sosa Jennifer
 * Galindo Machaca Laura

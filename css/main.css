@@ -68,8 +68,6 @@ header ul li {
   width: 63px;
   height: 44px;
 }
-
-
 .box-header {
   position: relative;
 
@@ -82,6 +80,7 @@ header ul li {
   top:-34px;
   left: 723px;
   font-size: 1.125rem;
+  width: 500px;
 }
 .logo-square {
   width: 100px;
