@@ -29,11 +29,11 @@ Utilizaremos los siguiente videos de Youtube.
     * https://www.youtube.com/watch?v=xj2VWLV0xCU
   - Para añadir videos hemos hecho uso de la etiqueta `iframe` para el cual nos dirigimos al video a insertar, 
   clic derecho,clic en codigo de inserción y pegamos en el elemento src de la etiqueta iframe.
-  -Hemos hecho uso de clases reutilizables y especificas
-  -Nuestra plantilla consta de un header como portada de inicio, cinco secciones y un footer.
-  -En el header hicimos uso de la etiqueta nav para crear un menu de navegación y figure para insertar una imagen a la izquierda
-  -Las secciones estan contenidas con texto y video.
-  -La etiqueta footer indica el pie de pagina , un listado de enlaces de nuestro webSite como redes sociales 
+  - Hemos hecho uso de clases reutilizables y especificas
+  - Nuestra plantilla consta de un header como portada de inicio, cinco secciones y un footer.
+  - En el header hicimos uso de la etiqueta nav para crear un menu de navegación y figure para insertar una imagen a la izquierda
+  - Las secciones estan contenidas con texto y video.
+  - La etiqueta footer indica el pie de pagina , un listado de enlaces de nuestro webSite como redes sociales 
 	para los cuales hicimos uso de iconos extraidos de icomoon
   
 ***
